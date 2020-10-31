@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Counter from './counter';
 
+// Testing out comments
 class Counters extends Component {
     state = {  
         counters: [
